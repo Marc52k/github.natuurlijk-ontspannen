@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.34 94.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: ChakraPetch-ExtraLight, 'Chakra Petch';
+        font-size: 13px;
+        font-weight: 200;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="design">
+    <g>
+      <g>
+        <path class="cls-2" d="M51.67,3.68c2.47,2.3,3.98,5.47,4.18,8.21.32,4.5-2.9,8.22-6.54,12.43-2.06,2.38-4.05,4.09-5.45,5.18-1.4-1.09-3.39-2.8-5.45-5.18-3.64-4.21-6.85-7.93-6.54-12.43.35-4.98,5.05-11.39,11.99-11.39,1.66,0,3.19.37,4.56.99"/>
+        <path class="cls-2" d="M47.59,8.5c.78.95,1.26,2.17,1.26,3.5,0,3.04-2.46,5.5-5.5,5.5s-5.5-2.46-5.5-5.5,2.46-5.5,5.5-5.5c.77,0,1.51.16,2.17.45"/>
+        <path class="cls-2" d="M37.84,32.5h12"/>
+      </g>
+      <text class="cls-1" transform="translate(3.3 56.49)"><tspan x="0" y="0">J</tspan><tspan class="cls-6" x="7.01" y="0">a</tspan><tspan class="cls-5" x="13.82" y="0">v</tspan><tspan x="19.55" y="0">a</tspan><tspan class="cls-4" x="26.49" y="0">k</tspan><tspan x="32.64" y="0">ade 76</tspan><tspan class="cls-6" x="70.75" y="0">6</tspan><tspan x="78.17" y="0">, </tspan><tspan x="18.53" y="15.6">1019 SH </tspan><tspan x="7.44" y="31.2">Ams</tspan><tspan class="cls-5" x="32.19" y="31.2">t</tspan><tspan x="36.85" y="31.2">e</tspan><tspan class="cls-3" x="43.92" y="31.2">r</tspan><tspan x="48.38" y="31.2">dam</tspan></text>
+    </g>
+  </g>
+</svg>
