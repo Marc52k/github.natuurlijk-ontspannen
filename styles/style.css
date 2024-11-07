@@ -4,7 +4,8 @@ body{
     margin: auto;
 }
 .background-welkom{
-    background-size: cover;
+    padding-top: 3em;
+    background-size: 100;
     background-position: center;
     background-image: url(/images/bg-home-faded.png);
     background-repeat: repeat;
@@ -20,7 +21,7 @@ body{
     background-position: center;
     background-size: 110%;
     background-image: url(/images/bg-ervaring-2.png);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }   
 .background-welkom h1{
     padding-left: 1em;
@@ -28,25 +29,31 @@ body{
     color:#242c5c;
  }
  .background-gebouw h1{
-    padding-left: 7em ;
-    padding-bottom: 7em;
-    color:#242c5c
+    padding-top: 3em; 
+    padding-left: 7em;
+    padding-bottom: 6em;
+    margin-top: 1px;
+    color:#242c5c;
  }
  .background-ervaring h1{
-    padding-left: 1em;
+    padding-top: 5em;
+    padding-left: 7em;
     padding-bottom: 3em;
-    color:#242c5c
+    margin-top: -1em;
+    color:#242c5c;
  }
  .background-welkom h2{
-    padding: 1em 1rem;
+    padding: 1em 1rem; 
  }
  .background-gebouw h2{
     padding: 1em 1rem;
+    padding-bottom: 2em;
  }
  .background-ervaring h2{
     padding: 1em 1rem;
-    padding-bottom:3em;
-    padding-top: 4em;
+    padding-bottom:6em;
+    padding-top: 1em;
+    margin-bottom: -2em;
  }
  h2{
     display: flex;
@@ -83,7 +90,6 @@ nav{
     width: 50px;
     margin-left: auto;
     position: relative;
-   
 }
 .ham-menu span{
     height: 4px;
@@ -124,6 +130,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between; 
+    background-color: #1b499a;
+    border-bottom: 5px solid; color: rgb(255, 255, 255);  
+    border-top: 5px solid; color: rgb(255, 255, 255);
 }
 header img{
     display: flex;
@@ -187,7 +196,6 @@ footer{
     width: 12em;
     border-right: 5px solid; color: rgb(255, 255, 255);  
     border-top: 5px solid; color: rgb(255, 255, 255);
-    
 }
 .stacked img{
     width: 6em;
