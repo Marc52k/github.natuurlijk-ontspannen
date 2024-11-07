@@ -24,11 +24,13 @@ body{
     background-repeat: no-repeat;
 }   
 .background-welkom h1{
+    font-size: 32px;
     padding-left: 1em;
     padding-bottom: 5em;
     color:#242c5c;
  }
  .background-gebouw h1{
+    font-size: 32px;
     padding-top: 3em; 
     padding-left: 7em;
     padding-bottom: 6em;
@@ -36,6 +38,7 @@ body{
     color:#242c5c;
  }
  .background-ervaring h1{
+    font-size: 32px;
     padding-top: 5em;
     padding-left: 7em;
     padding-bottom: 3em;
@@ -43,13 +46,16 @@ body{
     color:#242c5c;
  }
  .background-welkom h2{
+    font-size: 16px;
     padding: 1em 1rem; 
  }
  .background-gebouw h2{
+    font-size: 16px;
     padding: 1em 1rem;
     padding-bottom: 2em;
  }
  .background-ervaring h2{
+    font-size: 16px;
     padding: 1em 1rem;
     padding-bottom:6em;
     padding-top: 1em;
