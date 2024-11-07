@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.28 64.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: ChakraPetch-ExtraLight, 'Chakra Petch';
+        font-size: 15px;
+        font-weight: 200;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="txt">
+    <g>
+      <g>
+        <path class="cls-2" d="M26.16,37.9h5V12.88h10v10.02"/>
+        <path class="cls-2" d="M36.16,39.9v-15h15v15"/>
+        <path class="cls-2" d="M47.16,22.9V5.9L55.16.9v39"/>
+        <polyline class="cls-2" points="70.36 39.9 66.16 39.9 66.16 35.22 66.16 21.9 57.16 15.79"/>
+        <line class="cls-2" x1="62.16" y1="34.9" x2="66.16" y2="34.9"/>
+        <text/>
+        <line class="cls-2" x1="62.16" y1="26.39" x2="66.16" y2="26.39"/>
+        <line class="cls-2" x1="40.16" y1="29.9" x2="47.66" y2="29.9"/>
+        <line class="cls-2" x1="40.16" y1="34.09" x2="47.66" y2="34.09"/>
+        <line class="cls-2" x1="40.16" y1="38.75" x2="47.66" y2="38.75"/>
+        <line class="cls-2" x1="47.16" y1="20.43" x2="52.16" y2="20.43"/>
+        <line class="cls-2" x1="47.16" y1="15.79" x2="52.16" y2="15.79"/>
+        <line class="cls-2" x1="47.16" y1="11.34" x2="52.16" y2="11.34"/>
+      </g>
+      <text class="cls-1" transform="translate(.12 56.52)"><tspan x="0" y="0">Bouwjaar 2018</tspan></text>
+    </g>
+  </g>
+</svg>

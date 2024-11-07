@@ -1,51 +1,53 @@
 body{
     background-image: linear-gradient(#242c5c,#1b499a);
     font-family: "chakra petch"; color: white;
-    margin: 0em;
+    margin: auto;
 }
 .background-welkom{
-    
-    background-size: 103%;
+    background-size: cover;
     background-position: center;
-    background-image: url(/images/bg-welkom_1.svg);
-    background-repeat: no-repeat;
-    animation-name: show;
-    animation-duration: 3s;
-    
-    
-
+    background-image: url(/images/bg-home-faded.png);
+    background-repeat: repeat;
 }
 .background-gebouw{
-    background-image: url(/images/bg-gebouw-1.svg);
+    background-image: url(/images/bg-gebouw.png);
     background-size: 105%;
     background-position: center;
-    background-repeat: no-repeat;
-    animation-name: show;
-    animation-duration: 3s;
-    
+    background-repeat: no-repeat;  
 }
+.background-ervaring{
+    background-size: cover;
+    background-position: center;
+    background-size: 110%;
+    background-image: url(/images/bg-ervaring-2.png);
+    background-repeat: repeat;
+}   
 .background-welkom h1{
     padding-left: 1em;
     padding-bottom: 5em;
-
-    color: rgb(0, 0, 0); 
+    color:#242c5c;
  }
-
  .background-gebouw h1{
     padding-left: 7em ;
     padding-bottom: 7em;
-    color: rgb(0, 0, 0); 
+    color:#242c5c
  }
-
+ .background-ervaring h1{
+    padding-left: 1em;
+    padding-bottom: 3em;
+    color:#242c5c
+ }
  .background-welkom h2{
     padding: 1em 1rem;
-
-    
  }
  .background-gebouw h2{
     padding: 1em 1rem;
  }
-
+ .background-ervaring h2{
+    padding: 1em 1rem;
+    padding-bottom:3em;
+    padding-top: 4em;
+ }
  h2{
     display: flex;
     text-align: center;
@@ -71,20 +73,18 @@ body{
 .off-screen-menu.active{
     right: 0;
 }
-
 nav{
     display: flex;
     padding: 1rem;
     background-color: transparent;
 }
-
 .ham-menu{
     height: 50px;
     width: 50px;
     margin-left: auto;
     position: relative;
+   
 }
-
 .ham-menu span{
     height: 4px;
     width: 100%;
@@ -113,68 +113,130 @@ nav{
     top: 50%;
     transform: translate(-50%, 50%)rotate(-45deg); width: 100%;
 }
-
 li{
-    list-style-type:none;
-    padding-right: 2em;
-    
+    list-style-type: none;
+    padding: 1em;
 }
-    
-
-
-
+a{
+    color: white;
+}
 header{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    
+    justify-content: space-between; 
 }
 header img{
     display: flex;
     justify-content: center;
     width: 6em;
     padding: 1em;
-
-    
-
+    animation: show;
+    animation-duration: 3s;
 }
-
 .icons{
-    display: flex;
-    padding: 2em;
+    display: flex; 
+    padding: 1em;
     justify-content: space-between;
 }
-    
 .icons img{
     width: 5em;
 }
-
-
-
-.fotolijn-r img{
+.home img{
     margin: 2em;
     width: 18em;
     display: flex;
     justify-content:center;
-    border-right: 5px solid; color: rgb(255, 255, 255); 
-    border-top: 5px solid; color: rgb(255, 255, 255); 
+    border-right: 5px solid; color: rgb(255, 255, 255);  
+    border-top: 5px solid; color: rgb(255, 255, 255);
 }
-
-
-
+article h2{
+    display: flex;
+    justify-content: center;
+    color:#242c5c;
+    padding-top: 1em;
+}
+article p{
+    display: flex;
+    justify-content: center;
+    color:#242c5c
+}
+article{
+    background-color: white;
+    opacity: 70%;
+    border-radius: 1%;
+    margin: 1em;
+}
+footer img{
+    width: 7em;
+    display: flex;
+    padding: 2em;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    display: flex;
+    align-items: baseline;
+    padding: 1em 1rem;
+}
+.container img{
+    display: flex;
+    margin: 1em;
+    width: 12em;
+    border-right: 5px solid; color: rgb(255, 255, 255);  
+    border-top: 5px solid; color: rgb(255, 255, 255);
     
-
-
-
+}
+.stacked img{
+    width: 6em;
+    border: 0px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin: 1em 1rem;
+    padding: 1em 1rem;
+    background-color: white;
+    color: #242c5c;
+    border-radius: 1%;
+    opacity: 80%;
+}
+.duo img{
+    width: 5em;
+    padding: 1em;
+    display: flex;
+    padding-right: px;
+}
+.duo p{
+    margin-left: 1em;
+    padding: 15px;
+    display: flex;
+    text-align: center;
+}
+.duo{
+    display: flex;
+}
+.triple {
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+}
+.triple img{
+    margin: 4px;
+    display: flex;
+    border-right: 3px solid; color: rgb(255, 255, 255);  
+    border-top: 3px solid; color: rgb(255, 255, 255);
+}
 @keyframes show{
     0%{
-position: fixed;
-top: 450px;
+position:fixed;
+left: -250px;
     }
-
     100%{
-position: relative;
-top: 0px
+position:relative;
+left: 0px
     }
 }
 
