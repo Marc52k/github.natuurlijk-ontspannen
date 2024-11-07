@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.89 85.44">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: ChakraPetch-ExtraLight, 'Chakra Petch';
+        font-size: 15px;
+        font-weight: 200;
+        stroke-width: .25px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="txt">
+    <g>
+      <text class="cls-2" transform="translate(8.38 59.92)"><tspan x="0" y="0">BREEAM</tspan><tspan x="-8.26" y="18">Certifica</tspan><tspan class="cls-6" x="47.51" y="18">a</tspan><tspan class="cls-5" x="55.37" y="18">t </tspan></text>
+      <g>
+        <path class="cls-4" d="M45.32,4.41v24.87c0,2.16-1.75,3.91-3.91,3.91h-13.97c-2.16,0-3.91-1.75-3.91-3.91V4.41c0-2.16,1.75-3.91,3.91-3.91h13.97"/>
+        <path class="cls-4" d="M27.05,13.26h13.93"/>
+        <path class="cls-4" d="M27.59,9.91h13.93"/>
+        <path class="cls-4" d="M27.43,16.36h13.93"/>
+        <path class="cls-4" d="M27.86,19.5h13.93"/>
+        <path class="cls-4" d="M35.85,27.14h4.84"/>
+        <path class="cls-3" d="M40.31,2.79v3h2.5"/>
+        <path class="cls-1" d="M31.39,26.79c0,.12-.17.22-.19.33s.1.27.06.38-.23.15-.29.25,0,.29-.07.38-.27.06-.36.13-.09.27-.19.33-.27-.04-.38,0-.18.22-.3.24-.24-.13-.36-.13-.25.15-.36.13-.19-.2-.3-.24-.28.05-.38,0-.1-.26-.19-.33-.28-.04-.36-.13-.01-.28-.07-.38-.25-.14-.29-.25.08-.26.06-.38-.19-.22-.19-.33.17-.22.19-.33-.1-.27-.06-.38.23-.15.29-.25,0-.29.07-.38.27-.06.36-.13.09-.27.19-.33.27.04.38,0,.18-.22.3-.24.24.13.36.13.25-.15.36-.13.19.2.3.24.28-.05.38,0,.1.26.19.33.28.04.36.13.01.28.07.38.25.14.29.25-.08.26-.06.38.19.22.19.33Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
