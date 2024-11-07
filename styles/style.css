@@ -7,11 +7,11 @@ body{
     padding-top: 3em;
     background-size: 100;
     background-position: center;
-    background-image: url(/images/bg-home-faded.png);
+    background-image: url(images/bg-home-faded.png);
     background-repeat: repeat;
 }
 .background-gebouw{
-    background-image: url(/images/bg-gebouw.png);
+    background-image: url(images/bg-gebouw.png);
     background-size: 105%;
     background-position: center;
     background-repeat: no-repeat;  
@@ -20,7 +20,7 @@ body{
     background-size: cover;
     background-position: center;
     background-size: 110%;
-    background-image: url(/images/bg-ervaring-2.png);
+    background-image: url(images/bg-ervaring-2.png);
     background-repeat: no-repeat;
 }   
 .background-welkom h1{
